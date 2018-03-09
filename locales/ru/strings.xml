@@ -37,7 +37,7 @@
     <string name="array_pref_not_update_frequency_item_2">5 минут</string>
     <string name="array_pref_not_update_frequency_item_3">10 минут</string>
     <string name="array_pref_not_update_frequency_item_4">30 минут (Низкий расход батареи)</string>
-    <string name="array_pref_not_update_frequency_item_5">Обновить вручную</string>
+    <string name="array_pref_not_update_frequency_item_5">Обновлять вручную</string>
     <string name="banner_ad_main_id">ca-app-pub-6335762667813995/8698719509</string>
     <string name="banner_ad_test_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="buy_pro">Сначала купите приложение.</string>
